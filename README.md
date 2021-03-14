@@ -1,6 +1,6 @@
 ## NIZAMUDDIN SHAIKH
 - I am a self taught programmer.
-- I learnt HTML, CSS, JavaScript, NodeJS, ExpressJS, KoaJs, Pug, Python and Adobe Illustrator, Figma - all by myself.
+- I learnt HTML, CSS, JavaScript, NodeJS, ExpressJS, KoaJs, Pug, Python, Adobe Illustrator and Figma - all by myself.
 - I learnt all these, through extensive use of internet - particularly books and videos.
 - I tried whatever I learnt that way, in my own practicles.
 - Now, I wish to share some of my practicles which may be of use to learners.
