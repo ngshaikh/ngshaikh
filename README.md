@@ -1,5 +1,5 @@
 ## NIZAMUDDIN SHAIKH
-### I am an avid programmer and a computer enthusiast!
+### I am an avid programmer and a computer enthusiast! 😃
 - I am a self learnt programmer.
 - I learnt HTML, CSS, JavaScript, NodeJS, ExpressJS, KoaJS, Pug, neDB, MongoDB, Python, Adobe Illustrator and Figma - all by myself.
 - I learnt all these, through extensive use of internet - particularly online books and videos.
