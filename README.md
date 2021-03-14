@@ -21,12 +21,14 @@
 - User Experience
 - Data Science 
 
+## I am interested in collaboration on
+- Projects that require accounts reconciliation
+- Projects which require data analysis
 
-- 👋 Hi, I’m @ngshaikh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## How to reach me
+- My email is ngshaikh@hotmail.com
+
+I look forward to a progressive future on GitHub.
 
 <!---
 ngshaikh/ngshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
