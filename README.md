@@ -6,10 +6,10 @@
 - Now, I wish to share some of my practicles which may be of use to learners.
 
 ## I am currently learning
-- Using pug in KoaJS
+- How to use pug in KoaJS
 
 ## I am also working on
-- One project named PaymentsTracker
+- A project named PaymentsTracker
 - This project is in Express 
 - This tracks payments made from different accounts and reconciles them
 - I shall upload this project on GitHub when it is fully functional
