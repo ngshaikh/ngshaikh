@@ -1,7 +1,7 @@
 ## NIZAMUDDIN SHAIKH
 ### I am an avid programmer and a computer enthusiast! 😃
 - I am a self learnt programmer.
-- I learnt HTML, CSS, Less, JavaScript, NodeJS, ExpressJS, KoaJS, Pug, neDB, MongoDB, Python, Adobe Illustrator and Figma - all by myself.
+- I learnt HTML, CSS, Less, JavaScript, NodeJS, ExpressJS, KoaJS, Pug, Sqlite3, neDB, MongoDB, Python, Adobe Illustrator and Figma - all by myself.
 - I learnt all these, through extensive use of internet - particularly online books and videos.
 - I tried whatever I learnt that way, in my own practicles.
 - Now, I wish to share some of my practicles which may be of use to other people.
@@ -10,8 +10,8 @@
 - How to use pug in KoaJS
 
 ## I am also working on
-- A project named PaymentsTracker
-- This project is in Express and uses sqlite3 as database
+- A project named **PaymentsTracker**
+- This project is in **Express and uses sqlite3 as database**
 - This tracks payments made from different accounts and reconciles them
 - I shall upload this project on GitHub when it is fully functional
 - I shall do the same project in KoaJS thereafter.
@@ -19,10 +19,12 @@
 ## I am very much interested in
 - Web development 
 - Web designing
+- Customised accounts 
 - User Interface
 - User Experience
-- Data Analysis
 - Data Science 
+- Data Analysis
+
 
 ## I am interested in collaboration on
 - Projects that require accounts reconciliation
