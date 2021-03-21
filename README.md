@@ -16,6 +16,11 @@
 - I shall upload this project on GitHub when it is fully functional
 - I shall do the same project in KoaJS thereafter.
 
+## My future projects
+1) Personal Investment Tracker
+3) Inventory System for Pharmaceutical companies
+4) Fulfledged accounts system 
+
 ## I am very much interested in
 - Web development 
 - Web designing
@@ -24,7 +29,6 @@
 - User Experience
 - Data Science 
 - Data Analysis
-
 
 ## I am interested in collaboration on
 - Projects that require accounts reconciliation
